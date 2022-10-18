@@ -1,0 +1,16 @@
+body {
+    background: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container{
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+header{
+    background: red;
+
+
+}
